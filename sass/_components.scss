@@ -15,11 +15,7 @@
   align-items: center;
   @media only screen and (max-width: 31.25em) {
     order: 1;
-<<<<<<< HEAD
-    flex: 0 0 100%;
-=======
-    flex: 0 0 90%;
->>>>>>> parent of 51bd1ae (flex70)
+    flex: 0 0 70%;
   }
 
   &__input {
